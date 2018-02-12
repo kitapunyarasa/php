@@ -1,7 +1,7 @@
 
 <?php
 
-$input = "aku suka kamu"; //.masukkan kata atau kalimat yang ingin dibalik
+$input = "test"; //.masukkan kata atau kalimat yang ingin dibalik
 //.mulai memproses input
 $count = strlen($input); //.menghitung jumlah karakter
 echo "<b>input = </b>" . $input; //.menampilkan input
